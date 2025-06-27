@@ -23,6 +23,9 @@
 
 <p>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczcncodes&layout=compact&theme=dark)
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaczcncodes&show_icons=true&locale=en&theme=dark" alt="isaaczcncodes"/>
 </p>
 
 <br><br>
