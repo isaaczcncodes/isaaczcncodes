@@ -1,9 +1,16 @@
+<div align="center">
+  
 # Hello! I'm Isaac
-### 16 year old Back-end developer! Always willing to learn more 🙃
+### 16 year old Back-end developer! 🙃
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Always+willing+to+learn+more)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## Technologies
+<div align="center">
+  
+# Technologies
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"> 
@@ -12,16 +19,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"> -->
+</div>
 
-## Connect with me:
+---
+<div align="center">
+  
+# Connect With Me
 
 <a href="https://www.linkedin.com/in/isaac-josé-ferreira-da-silva-882857359/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
 <a href="https://instagram.com//isaaczcn/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaaczcn" width="50" height="40"/></a>
+</div>
 
 ---
-## Applications and Statistics
 
 <div align="center">
+  
+# Applications and Statistics
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczcncodes&layout=compact&theme=transparent)
 
