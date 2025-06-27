@@ -21,12 +21,12 @@
 ---
 ## Applications and Statistics
 
-<p>
+<div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczcncodes&layout=compact&theme=dark)
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaczcncodes&show_icons=true&locale=en&theme=dark" alt="isaaczcncodes"/>
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczcncodes&layout=compact&theme=transparent)
+
+  ![](https://github-readme-stats.vercel.app/api?username=isaaczcncodes&show_icons=true&hide=issues,prs&theme=transparent)
+</div>
 
 <br><br>
 
