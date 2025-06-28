@@ -39,8 +39,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczcncodes&layout=compact&theme=transparent)
 
-  ![](https://github-readme-stats.vercel.app/api?username=isaaczcncodes&show_icons=true&hide=issues,prs&theme=transparent)
-  
+  ![](https://github-readme-stats.vercel.app/api?username=isaaczcncodes&&theme=transparent)
 </div>
 
 <br><br>
