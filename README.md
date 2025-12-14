@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif" alt="welcome to my github profile">
+	<img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif" alt="welcome to my github profile">
 	<br>
 	<br>
 </div> 
